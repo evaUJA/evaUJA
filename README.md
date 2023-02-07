@@ -1,8 +1,10 @@
 ### Eva Temes Moya  👋
 <img src='/imagen.JPG' width='200px'>
- I’m currently learning how to use gitHub
- 
- Fun fact: Estoy estudiando en la uja, sin ánimo de lucro 
+
+Estudiante de Informática de la Universidad de Jaén.
+* **Correo**: etm00016@red.ujaen.es
+* **GitHub**: https://github.com/evaUJA/
+* **Trello**: https://trello.com/b/W2SfIuJf/practica1
 <!--
 **evaUJA/evaUJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
