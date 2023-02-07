@@ -5,7 +5,7 @@ Estudiante de Informática de la Universidad de Jaén.
 * **Correo**: etm00016@red.ujaen.es
 * **GitHub**: https://github.com/evaUJA/
 * **Trello**: https://trello.com/b/W2SfIuJf/practica1
-<img src='/trelloInicio.jpeg' width='200px'>
+<img src='/trelloInicio.jpeg' width='600px'>
 <!--
 **evaUJA/evaUJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
