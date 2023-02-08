@@ -6,6 +6,7 @@ Estudiante de Informática de la Universidad de Jaén.
 * **GitHub**: 
 *     Usuario: evaUJA
 *     Enlace: https://github.com/evaUJA/
+<img src='/GitHub.JPG' width='200px'>
 * **Trello**: https://trello.com/b/W2SfIuJf/practica1
 <img src='/trelloInicio.jpeg' width='600px'>
 <!--
