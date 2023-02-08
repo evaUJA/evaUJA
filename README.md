@@ -7,8 +7,11 @@ Estudiante de Informática de la Universidad de Jaén.
 *     Usuario: evaUJA
 *     Enlace: https://github.com/evaUJA/
 <img src='/GitHub.JPG' width='600px'>
+
 * **Trello**: https://trello.com/b/W2SfIuJf/practica1
+<img src='/trelloFinal.jpg' width='600px'>
 <img src='/trelloInicio.jpeg' width='600px'>
+
 <!--
 **evaUJA/evaUJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
